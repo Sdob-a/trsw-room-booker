@@ -1,0 +1,1397 @@
+[
+  {
+    "id": "K1",
+    "name": "Room K1 - Music",
+    "block": "Kensington Building",
+    "floor": "Ground Floor",
+    "capacity": 28,
+    "type": "Music & Audio",
+    "facilities": [
+      "Acoustic Treatment",
+      "Keyboards",
+      "Sound System",
+      "Interactive Whiteboard"
+    ],
+    "isBookable": true,
+    "unbookableReason": ""
+  },
+  {
+    "id": "K2",
+    "name": "Room K2 - Music",
+    "block": "Kensington Building",
+    "floor": "Ground Floor",
+    "capacity": 28,
+    "type": "Music & Audio",
+    "facilities": [
+      "Acoustic Treatment",
+      "Keyboards",
+      "Sound System",
+      "Interactive Whiteboard"
+    ],
+    "isBookable": true,
+    "unbookableReason": ""
+  },
+  {
+    "id": "K-PRAC1",
+    "name": "Music Practice Room 1",
+    "block": "Kensington Building",
+    "floor": "Ground Floor",
+    "capacity": 4,
+    "type": "Music & Audio",
+    "facilities": [
+      "Upright Piano",
+      "Sound Isolation",
+      "Music Stands"
+    ],
+    "isBookable": true,
+    "unbookableReason": ""
+  },
+  {
+    "id": "K-PRAC2",
+    "name": "Music Practice Room 2",
+    "block": "Kensington Building",
+    "floor": "Ground Floor",
+    "capacity": 4,
+    "type": "Music & Audio",
+    "facilities": [
+      "Digital Keyboard",
+      "Sound Isolation",
+      "Music Stands"
+    ],
+    "isBookable": true,
+    "unbookableReason": ""
+  },
+  {
+    "id": "K3",
+    "name": "Room K3",
+    "block": "Kensington Building",
+    "floor": "Ground Floor",
+    "capacity": 30,
+    "type": "General Classroom",
+    "facilities": [
+      "Interactive Whiteboard",
+      "Projector",
+      "Teacher PC"
+    ],
+    "isBookable": true,
+    "unbookableReason": ""
+  },
+  {
+    "id": "K4",
+    "name": "Room K4",
+    "block": "Kensington Building",
+    "floor": "Ground Floor",
+    "capacity": 30,
+    "type": "General Classroom",
+    "facilities": [
+      "Interactive Whiteboard",
+      "Projector",
+      "Teacher PC"
+    ],
+    "isBookable": true,
+    "unbookableReason": ""
+  },
+  {
+    "id": "K5",
+    "name": "Room K5",
+    "block": "Kensington Building",
+    "floor": "Ground Floor",
+    "capacity": 30,
+    "type": "General Classroom",
+    "facilities": [
+      "Interactive Whiteboard",
+      "Projector",
+      "Teacher PC"
+    ],
+    "isBookable": true,
+    "unbookableReason": ""
+  },
+  {
+    "id": "K6",
+    "name": "Room K6 - Science Lab",
+    "block": "Kensington Building",
+    "floor": "Ground Floor",
+    "capacity": 30,
+    "type": "Science Lab",
+    "facilities": [
+      "Gas Taps",
+      "Sinks & Water",
+      "Fume Cupboard",
+      "Interactive Whiteboard",
+      "Lab Benches"
+    ],
+    "isBookable": true,
+    "unbookableReason": ""
+  },
+  {
+    "id": "K-SCI-PREP1",
+    "name": "Science Prep Room 1",
+    "block": "Kensington Building",
+    "floor": "Ground Floor",
+    "capacity": 5,
+    "type": "Specialist Workshop",
+    "facilities": [
+      "Chemical Storage",
+      "Prep Benches",
+      "Glassware"
+    ],
+    "isBookable": false,
+    "unbookableReason": "Science Technician Preparation Area"
+  },
+  {
+    "id": "K-LEADER",
+    "name": "Leadership Office (Kensington)",
+    "block": "Kensington Building",
+    "floor": "Ground Floor",
+    "capacity": 4,
+    "type": "Staff Office",
+    "facilities": [
+      "Desk Workstations",
+      "Meeting Table"
+    ],
+    "isBookable": false,
+    "unbookableReason": "Senior Leadership Team Office"
+  },
+  {
+    "id": "K7",
+    "name": "Room K7 - IT Suite",
+    "block": "Kensington Building",
+    "floor": "Ground Floor",
+    "capacity": 32,
+    "type": "IT Computer Suite",
+    "facilities": [
+      "32 Student PCs",
+      "Teacher PC",
+      "Laser Printer",
+      "Interactive Screen"
+    ],
+    "isBookable": true,
+    "unbookableReason": ""
+  },
+  {
+    "id": "K8",
+    "name": "Room K8 - Food Technology",
+    "block": "Kensington Building",
+    "floor": "Ground Floor",
+    "capacity": 24,
+    "type": "Specialist Workshop",
+    "facilities": [
+      "Cooker Bays",
+      "Food Prep Sinks",
+      "Refrigeration",
+      "Interactive Whiteboard"
+    ],
+    "isBookable": true,
+    "unbookableReason": ""
+  },
+  {
+    "id": "K-FOOD-PREP",
+    "name": "Food Tech Prep Room",
+    "block": "Kensington Building",
+    "floor": "Ground Floor",
+    "capacity": 4,
+    "type": "Specialist Workshop",
+    "facilities": [
+      "Storage",
+      "Prep Sink",
+      "Refrigeration"
+    ],
+    "isBookable": false,
+    "unbookableReason": "Technician Prep & Ingredients Storage"
+  },
+  {
+    "id": "K9",
+    "name": "Room K9",
+    "block": "Kensington Building",
+    "floor": "Ground Floor",
+    "capacity": 30,
+    "type": "General Classroom",
+    "facilities": [
+      "Interactive Whiteboard",
+      "Projector",
+      "Teacher PC"
+    ],
+    "isBookable": true,
+    "unbookableReason": ""
+  },
+  {
+    "id": "K10",
+    "name": "Room K10 - Art Studio",
+    "block": "Kensington Building",
+    "floor": "Ground Floor",
+    "capacity": 26,
+    "type": "Art & Design",
+    "facilities": [
+      "Deep Wash Sinks",
+      "Art Easels",
+      "Drying Racks",
+      "Interactive Display"
+    ],
+    "isBookable": true,
+    "unbookableReason": ""
+  },
+  {
+    "id": "K-MEET",
+    "name": "Kensington Meeting Room",
+    "block": "Kensington Building",
+    "floor": "Ground Floor",
+    "capacity": 12,
+    "type": "Meeting / Conference",
+    "facilities": [
+      "Conference Table",
+      "Video Conferencing Display",
+      "Tea/Coffee Unit"
+    ],
+    "isBookable": true,
+    "unbookableReason": ""
+  },
+  {
+    "id": "K-RECEPT",
+    "name": "Reception & Resources (Kensington)",
+    "block": "Kensington Building",
+    "floor": "Ground Floor",
+    "capacity": 6,
+    "type": "Staff Office",
+    "facilities": [
+      "Reception Desk",
+      "Copier/Printer",
+      "Resource Store"
+    ],
+    "isBookable": false,
+    "unbookableReason": "Staff Reception & Printing Resources Hub"
+  },
+  {
+    "id": "K11",
+    "name": "Room K11",
+    "block": "Kensington Building",
+    "floor": "First Floor",
+    "capacity": 30,
+    "type": "General Classroom",
+    "facilities": [
+      "Interactive Whiteboard",
+      "Projector",
+      "Teacher PC"
+    ],
+    "isBookable": true,
+    "unbookableReason": ""
+  },
+  {
+    "id": "K12",
+    "name": "Room K12",
+    "block": "Kensington Building",
+    "floor": "First Floor",
+    "capacity": 30,
+    "type": "General Classroom",
+    "facilities": [
+      "Interactive Whiteboard",
+      "Projector",
+      "Teacher PC"
+    ],
+    "isBookable": true,
+    "unbookableReason": ""
+  },
+  {
+    "id": "K13",
+    "name": "Room K13",
+    "block": "Kensington Building",
+    "floor": "First Floor",
+    "capacity": 30,
+    "type": "General Classroom",
+    "facilities": [
+      "Interactive Whiteboard",
+      "Projector",
+      "Teacher PC"
+    ],
+    "isBookable": true,
+    "unbookableReason": ""
+  },
+  {
+    "id": "K14",
+    "name": "Room K14",
+    "block": "Kensington Building",
+    "floor": "First Floor",
+    "capacity": 30,
+    "type": "General Classroom",
+    "facilities": [
+      "Interactive Whiteboard",
+      "Projector",
+      "Teacher PC"
+    ],
+    "isBookable": true,
+    "unbookableReason": ""
+  },
+  {
+    "id": "K-SCI-PREP2",
+    "name": "Science Prep Room 2",
+    "block": "Kensington Building",
+    "floor": "First Floor",
+    "capacity": 5,
+    "type": "Specialist Workshop",
+    "facilities": [
+      "Chemical Storage",
+      "Prep Benches"
+    ],
+    "isBookable": false,
+    "unbookableReason": "Science Technician Preparation Area"
+  },
+  {
+    "id": "K-OFFICE1",
+    "name": "Staff Office 1 (Kensington)",
+    "block": "Kensington Building",
+    "floor": "First Floor",
+    "capacity": 4,
+    "type": "Staff Office",
+    "facilities": [
+      "Workstations",
+      "Phones"
+    ],
+    "isBookable": false,
+    "unbookableReason": "Dedicated Staff Office"
+  },
+  {
+    "id": "K-OFFICE2",
+    "name": "Staff Office 2 (Kensington)",
+    "block": "Kensington Building",
+    "floor": "First Floor",
+    "capacity": 4,
+    "type": "Staff Office",
+    "facilities": [
+      "Workstations",
+      "Phones"
+    ],
+    "isBookable": false,
+    "unbookableReason": "Dedicated Staff Office"
+  },
+  {
+    "id": "K15",
+    "name": "Room K15 - Science Lab",
+    "block": "Kensington Building",
+    "floor": "First Floor",
+    "capacity": 30,
+    "type": "Science Lab",
+    "facilities": [
+      "Gas Taps",
+      "Sinks & Water",
+      "Fume Cupboard",
+      "Interactive Whiteboard",
+      "Lab Benches"
+    ],
+    "isBookable": true,
+    "unbookableReason": ""
+  },
+  {
+    "id": "K16",
+    "name": "Room K16",
+    "block": "Kensington Building",
+    "floor": "First Floor",
+    "capacity": 30,
+    "type": "General Classroom",
+    "facilities": [
+      "Interactive Whiteboard",
+      "Projector",
+      "Teacher PC"
+    ],
+    "isBookable": true,
+    "unbookableReason": ""
+  },
+  {
+    "id": "K17",
+    "name": "Room K17",
+    "block": "Kensington Building",
+    "floor": "First Floor",
+    "capacity": 30,
+    "type": "General Classroom",
+    "facilities": [
+      "Interactive Whiteboard",
+      "Projector",
+      "Teacher PC"
+    ],
+    "isBookable": true,
+    "unbookableReason": ""
+  },
+  {
+    "id": "K18",
+    "name": "Room K18",
+    "block": "Kensington Building",
+    "floor": "First Floor",
+    "capacity": 30,
+    "type": "General Classroom",
+    "facilities": [
+      "Interactive Whiteboard",
+      "Projector",
+      "Teacher PC"
+    ],
+    "isBookable": true,
+    "unbookableReason": ""
+  },
+  {
+    "id": "K19",
+    "name": "Room K19",
+    "block": "Kensington Building",
+    "floor": "First Floor",
+    "capacity": 30,
+    "type": "General Classroom",
+    "facilities": [
+      "Interactive Whiteboard",
+      "Projector",
+      "Teacher PC"
+    ],
+    "isBookable": true,
+    "unbookableReason": ""
+  },
+  {
+    "id": "K-MENTOR",
+    "name": "Mentoring Room",
+    "block": "Kensington Building",
+    "floor": "First Floor",
+    "capacity": 6,
+    "type": "Intervention & Support",
+    "facilities": [
+      "Small Group Table",
+      "Display Screen"
+    ],
+    "isBookable": true,
+    "unbookableReason": ""
+  },
+  {
+    "id": "K-PASTORAL",
+    "name": "Pastoral Support Office",
+    "block": "Kensington Building",
+    "floor": "First Floor",
+    "capacity": 8,
+    "type": "Staff Office",
+    "facilities": [
+      "Consultation Desk",
+      "Private Office Area"
+    ],
+    "isBookable": false,
+    "unbookableReason": "Pastoral Care Team Office"
+  },
+  {
+    "id": "K-WORK",
+    "name": "Kensington Staff Work Room",
+    "block": "Kensington Building",
+    "floor": "First Floor",
+    "capacity": 18,
+    "type": "Staff Work Room",
+    "facilities": [
+      "PPA Workstations",
+      "Network Printer",
+      "Staff Kitchenette"
+    ],
+    "isBookable": false,
+    "unbookableReason": "Staff Work Room / PPA Area"
+  },
+  {
+    "id": "H1",
+    "name": "Room H1",
+    "block": "Holyrood Building",
+    "floor": "Ground Floor",
+    "capacity": 30,
+    "type": "General Classroom",
+    "facilities": [
+      "Interactive Whiteboard",
+      "Projector",
+      "Teacher PC"
+    ],
+    "isBookable": true,
+    "unbookableReason": ""
+  },
+  {
+    "id": "H2",
+    "name": "Room H2",
+    "block": "Holyrood Building",
+    "floor": "Ground Floor",
+    "capacity": 30,
+    "type": "General Classroom",
+    "facilities": [
+      "Interactive Whiteboard",
+      "Projector",
+      "Teacher PC"
+    ],
+    "isBookable": true,
+    "unbookableReason": ""
+  },
+  {
+    "id": "H3",
+    "name": "Room H3 (Library & Study)",
+    "block": "Holyrood Building",
+    "floor": "Ground Floor",
+    "capacity": 45,
+    "type": "Library / Resource Centre",
+    "facilities": [
+      "Study Desks",
+      "Reference Library",
+      "Interactive Screen",
+      "8 Research PCs"
+    ],
+    "isBookable": true,
+    "unbookableReason": ""
+  },
+  {
+    "id": "H4",
+    "name": "Room H4",
+    "block": "Holyrood Building",
+    "floor": "First Floor",
+    "capacity": 30,
+    "type": "General Classroom",
+    "facilities": [
+      "Interactive Whiteboard",
+      "Projector",
+      "Teacher PC"
+    ],
+    "isBookable": true,
+    "unbookableReason": ""
+  },
+  {
+    "id": "H5",
+    "name": "Room H5",
+    "block": "Holyrood Building",
+    "floor": "First Floor",
+    "capacity": 32,
+    "type": "General Classroom",
+    "facilities": [
+      "Interactive Whiteboard",
+      "Projector",
+      "Teacher PC",
+      "Audio System"
+    ],
+    "isBookable": true,
+    "unbookableReason": ""
+  },
+  {
+    "id": "H-DOMESTIC",
+    "name": "Domestic Office (Holyrood)",
+    "block": "Holyrood Building",
+    "floor": "First Floor",
+    "capacity": 4,
+    "type": "Staff Office",
+    "facilities": [
+      "Workstations",
+      "Storage"
+    ],
+    "isBookable": false,
+    "unbookableReason": "Domestic & Facilities Office"
+  },
+  {
+    "id": "H-SEND",
+    "name": "SEND Intervention Room",
+    "block": "Holyrood Building",
+    "floor": "First Floor",
+    "capacity": 12,
+    "type": "Intervention & Support",
+    "facilities": [
+      "Small Group Desks",
+      "Sensory Resources",
+      "Interactive Display"
+    ],
+    "isBookable": true,
+    "unbookableReason": ""
+  },
+  {
+    "id": "H-COUNSEL",
+    "name": "Counselling & Well-being",
+    "block": "Holyrood Building",
+    "floor": "First Floor",
+    "capacity": 6,
+    "type": "Meeting / Well-being",
+    "facilities": [
+      "Comfortable Seating",
+      "Private Meeting Space"
+    ],
+    "isBookable": true,
+    "unbookableReason": ""
+  },
+  {
+    "id": "H-WORK",
+    "name": "Holyrood Staff Work Room",
+    "block": "Holyrood Building",
+    "floor": "First Floor",
+    "capacity": 15,
+    "type": "Staff Work Room",
+    "facilities": [
+      "PPA Workstations",
+      "Network Printer",
+      "Staff Seating"
+    ],
+    "isBookable": true,
+    "unbookableReason": ""
+  },
+  {
+    "id": "SR-HEAD",
+    "name": "Head of School Office",
+    "block": "Senior School Building",
+    "floor": "Ground Floor",
+    "capacity": 6,
+    "type": "Staff Office",
+    "facilities": [
+      "Executive Desk",
+      "Meeting Table"
+    ],
+    "isBookable": false,
+    "unbookableReason": "Head of School Private Office"
+  },
+  {
+    "id": "SR-PA",
+    "name": "P.A. to Head Office",
+    "block": "Senior School Building",
+    "floor": "Ground Floor",
+    "capacity": 4,
+    "type": "Staff Office",
+    "facilities": [
+      "Workstations",
+      "Files"
+    ],
+    "isBookable": false,
+    "unbookableReason": "P.A. to Head Office"
+  },
+  {
+    "id": "SR-RECEPT",
+    "name": "Senior Reception",
+    "block": "Senior School Building",
+    "floor": "Ground Floor",
+    "capacity": 8,
+    "type": "Staff Office",
+    "facilities": [
+      "Visitor Reception Desk",
+      "Access Control"
+    ],
+    "isBookable": false,
+    "unbookableReason": "School Main Reception Desk"
+  },
+  {
+    "id": "VIC-HALL",
+    "name": "Victoria Hall",
+    "block": "Senior School Building",
+    "floor": "Ground Floor",
+    "capacity": 300,
+    "type": "Assembly Hall",
+    "facilities": [
+      "Historic Wood Paneling",
+      "Raised Stage",
+      "PA System",
+      "Projector",
+      "Banqueting/Exam Seating"
+    ],
+    "isBookable": true,
+    "unbookableReason": ""
+  },
+  {
+    "id": "SR-MEET",
+    "name": "Senior Meeting Room",
+    "block": "Senior School Building",
+    "floor": "Ground Floor",
+    "capacity": 14,
+    "type": "Meeting / Conference",
+    "facilities": [
+      "Conference Table",
+      "AV Screen",
+      "Video Conferencing"
+    ],
+    "isBookable": true,
+    "unbookableReason": ""
+  },
+  {
+    "id": "SR-ADMISSIONS",
+    "name": "Admissions Office",
+    "block": "Senior School Building",
+    "floor": "Ground Floor",
+    "capacity": 5,
+    "type": "Staff Office",
+    "facilities": [
+      "Workstations",
+      "Pupil Records"
+    ],
+    "isBookable": false,
+    "unbookableReason": "School Admissions Team Office"
+  },
+  {
+    "id": "SR-WELLBEING",
+    "name": "Wellbeing Office",
+    "block": "Senior School Building",
+    "floor": "Ground Floor",
+    "capacity": 8,
+    "type": "Meeting / Well-being",
+    "facilities": [
+      "Consultation Seating",
+      "Private Meeting"
+    ],
+    "isBookable": true,
+    "unbookableReason": ""
+  },
+  {
+    "id": "SR-VP",
+    "name": "Vice Principal Office",
+    "block": "Senior School Building",
+    "floor": "Ground Floor",
+    "capacity": 5,
+    "type": "Staff Office",
+    "facilities": [
+      "Executive Desk",
+      "Meeting Chairs"
+    ],
+    "isBookable": false,
+    "unbookableReason": "Vice Principal Private Office"
+  },
+  {
+    "id": "SIXTH-FORM",
+    "name": "Sixth Form Study Hub",
+    "block": "Senior School Building",
+    "floor": "Ground Floor",
+    "capacity": 60,
+    "type": "Library / Resource Centre",
+    "facilities": [
+      "Individual Study Carrels",
+      "Group Study Pods",
+      "Charging Ports",
+      "Teacher Monitoring Desk"
+    ],
+    "isBookable": true,
+    "unbookableReason": ""
+  },
+  {
+    "id": "MFL3",
+    "name": "Room MFL 3",
+    "block": "Senior School Building",
+    "floor": "Ground Floor",
+    "capacity": 30,
+    "type": "General Classroom",
+    "facilities": [
+      "Interactive Whiteboard",
+      "Audio Equipment",
+      "Teacher PC"
+    ],
+    "isBookable": true,
+    "unbookableReason": ""
+  },
+  {
+    "id": "MFL2",
+    "name": "Room MFL 2",
+    "block": "Senior School Building",
+    "floor": "Ground Floor",
+    "capacity": 30,
+    "type": "General Classroom",
+    "facilities": [
+      "Interactive Whiteboard",
+      "Audio Equipment",
+      "Teacher PC"
+    ],
+    "isBookable": true,
+    "unbookableReason": ""
+  },
+  {
+    "id": "MFL1",
+    "name": "Room MFL 1",
+    "block": "Senior School Building",
+    "floor": "Ground Floor",
+    "capacity": 30,
+    "type": "General Classroom",
+    "facilities": [
+      "Interactive Whiteboard",
+      "Audio Equipment",
+      "Teacher PC"
+    ],
+    "isBookable": true,
+    "unbookableReason": ""
+  },
+  {
+    "id": "THEATRE",
+    "name": "School Theatre",
+    "block": "Senior School Building",
+    "floor": "Ground Floor",
+    "capacity": 180,
+    "type": "Drama / Performance",
+    "facilities": [
+      "Tiered Seating",
+      "Stage Lighting Rig",
+      "Audio Mixing Desk",
+      "Wireless Mics"
+    ],
+    "isBookable": true,
+    "unbookableReason": ""
+  },
+  {
+    "id": "COM2",
+    "name": "Computer Room 2 (Com 2)",
+    "block": "Senior School Building",
+    "floor": "Ground Floor",
+    "capacity": 30,
+    "type": "IT Computer Suite",
+    "facilities": [
+      "30 Windows Workstations",
+      "Interactive Board",
+      "Network Laser Printer"
+    ],
+    "isBookable": true,
+    "unbookableReason": ""
+  },
+  {
+    "id": "COM1",
+    "name": "Computer Room 1 (Com 1)",
+    "block": "Senior School Building",
+    "floor": "Ground Floor",
+    "capacity": 30,
+    "type": "IT Computer Suite",
+    "facilities": [
+      "30 Windows Workstations",
+      "Interactive Board",
+      "Network Laser Printer"
+    ],
+    "isBookable": true,
+    "unbookableReason": ""
+  },
+  {
+    "id": "LAB1",
+    "name": "Science Lab 1",
+    "block": "Senior School Building",
+    "floor": "Ground Floor",
+    "capacity": 30,
+    "type": "Science Lab",
+    "facilities": [
+      "Gas Outlets",
+      "Sinks & Water",
+      "Fume Cupboard",
+      "Interactive Screen"
+    ],
+    "isBookable": true,
+    "unbookableReason": ""
+  },
+  {
+    "id": "HOH-OFFICE",
+    "name": "Heads of Houses Office",
+    "block": "Senior School Building",
+    "floor": "Ground Floor",
+    "capacity": 8,
+    "type": "Staff Office",
+    "facilities": [
+      "House Leader Desks",
+      "Student Consultation Space"
+    ],
+    "isBookable": false,
+    "unbookableReason": "Heads of Houses Office"
+  },
+  {
+    "id": "HR-OFFICE",
+    "name": "HR Office",
+    "block": "Senior School Building",
+    "floor": "First Floor",
+    "capacity": 5,
+    "type": "Staff Office",
+    "facilities": [
+      "Confidential Workstations",
+      "Records Store"
+    ],
+    "isBookable": false,
+    "unbookableReason": "Human Resources Office"
+  },
+  {
+    "id": "FINANCE-OFFICE",
+    "name": "Finance Office",
+    "block": "Senior School Building",
+    "floor": "First Floor",
+    "capacity": 6,
+    "type": "Staff Office",
+    "facilities": [
+      "Workstations",
+      "Secure Storage"
+    ],
+    "isBookable": false,
+    "unbookableReason": "School Finance Team Office"
+  },
+  {
+    "id": "SERVER-ROOM",
+    "name": "Server Room & IT Infrastructure",
+    "block": "Senior School Building",
+    "floor": "First Floor",
+    "capacity": 2,
+    "type": "Staff Office",
+    "facilities": [
+      "Server Racks",
+      "Air Conditioning",
+      "Access Control"
+    ],
+    "isBookable": false,
+    "unbookableReason": "Central IT Server Infrastructure"
+  },
+  {
+    "id": "IT-OFFICE",
+    "name": "IT Support Office",
+    "block": "Senior School Building",
+    "floor": "First Floor",
+    "capacity": 6,
+    "type": "Staff Office",
+    "facilities": [
+      "IT Helpdesk Workstations",
+      "Hardware Repair Bench"
+    ],
+    "isBookable": false,
+    "unbookableReason": "IT Helpdesk & Technician Office"
+  },
+  {
+    "id": "ADMIN-OFFICE",
+    "name": "Senior Administration Office",
+    "block": "Senior School Building",
+    "floor": "First Floor",
+    "capacity": 8,
+    "type": "Staff Office",
+    "facilities": [
+      "Administrative Workstations",
+      "Telephony"
+    ],
+    "isBookable": false,
+    "unbookableReason": "Senior School Administrative Office"
+  },
+  {
+    "id": "STORE-1",
+    "name": "Department Store",
+    "block": "Senior School Building",
+    "floor": "First Floor",
+    "capacity": 1,
+    "type": "Staff Office",
+    "facilities": [
+      "Storage Racking"
+    ],
+    "isBookable": false,
+    "unbookableReason": "Equipment & Resources Storage"
+  },
+  {
+    "id": "OFFICE-CH",
+    "name": "C Howells Office",
+    "block": "Senior School Building",
+    "floor": "First Floor",
+    "capacity": 3,
+    "type": "Staff Office",
+    "facilities": [
+      "Desk",
+      "Filing"
+    ],
+    "isBookable": false,
+    "unbookableReason": "Dedicated Staff Office"
+  },
+  {
+    "id": "STAFF-ROOM",
+    "name": "Senior Staff Room",
+    "block": "Senior School Building",
+    "floor": "First Floor",
+    "capacity": 50,
+    "type": "Staff Work Room",
+    "facilities": [
+      "Comfortable Seating",
+      "Pigeonholes",
+      "Tea/Coffee Station",
+      "Staff Noticeboards"
+    ],
+    "isBookable": false,
+    "unbookableReason": "Senior Teaching Staff Common Room"
+  },
+  {
+    "id": "E4",
+    "name": "Room E4 - English",
+    "block": "Senior School Building",
+    "floor": "First Floor",
+    "capacity": 30,
+    "type": "General Classroom",
+    "facilities": [
+      "Interactive Whiteboard",
+      "Projector",
+      "Teacher PC"
+    ],
+    "isBookable": true,
+    "unbookableReason": ""
+  },
+  {
+    "id": "E1",
+    "name": "Room E1 - English",
+    "block": "Senior School Building",
+    "floor": "First Floor",
+    "capacity": 30,
+    "type": "General Classroom",
+    "facilities": [
+      "Interactive Whiteboard",
+      "Projector",
+      "Teacher PC"
+    ],
+    "isBookable": true,
+    "unbookableReason": ""
+  },
+  {
+    "id": "E2",
+    "name": "Room E2 - English",
+    "block": "Senior School Building",
+    "floor": "First Floor",
+    "capacity": 30,
+    "type": "General Classroom",
+    "facilities": [
+      "Interactive Whiteboard",
+      "Projector",
+      "Teacher PC"
+    ],
+    "isBookable": true,
+    "unbookableReason": ""
+  },
+  {
+    "id": "E3",
+    "name": "Room E3 - English",
+    "block": "Senior School Building",
+    "floor": "First Floor",
+    "capacity": 30,
+    "type": "General Classroom",
+    "facilities": [
+      "Interactive Whiteboard",
+      "Projector",
+      "Teacher PC"
+    ],
+    "isBookable": true,
+    "unbookableReason": ""
+  },
+  {
+    "id": "LAB5",
+    "name": "Science Lab 5",
+    "block": "Senior School Building",
+    "floor": "First Floor",
+    "capacity": 30,
+    "type": "Science Lab",
+    "facilities": [
+      "Gas Outlets",
+      "Sinks & Water",
+      "Fume Cupboard",
+      "Lab Benches"
+    ],
+    "isBookable": true,
+    "unbookableReason": ""
+  },
+  {
+    "id": "CHEM-PREP",
+    "name": "Chemistry Preparation Room",
+    "block": "Senior School Building",
+    "floor": "First Floor",
+    "capacity": 4,
+    "type": "Specialist Workshop",
+    "facilities": [
+      "Chemical Fume Hood",
+      "Flammables Cabinet",
+      "Acids Store"
+    ],
+    "isBookable": false,
+    "unbookableReason": "Chemistry Technician Preparation & Chemical Store"
+  },
+  {
+    "id": "LAB4",
+    "name": "Science Lab 4 (Chemistry)",
+    "block": "Senior School Building",
+    "floor": "First Floor",
+    "capacity": 30,
+    "type": "Science Lab",
+    "facilities": [
+      "Gas Outlets",
+      "Sinks & Water",
+      "Dual Fume Cupboards",
+      "Safety Eyewash"
+    ],
+    "isBookable": true,
+    "unbookableReason": ""
+  },
+  {
+    "id": "FD-OFFICE",
+    "name": "FD Faculty Office",
+    "block": "Senior School Building",
+    "floor": "First Floor",
+    "capacity": 4,
+    "type": "Staff Office",
+    "facilities": [
+      "Faculty Desk",
+      "Storage"
+    ],
+    "isBookable": false,
+    "unbookableReason": "Faculty Office"
+  },
+  {
+    "id": "ORGAN-LOFT",
+    "name": "Organ Loft (Victoria Hall Gallery)",
+    "block": "Senior School Building",
+    "floor": "First Floor",
+    "capacity": 10,
+    "type": "Specialist Workshop",
+    "facilities": [
+      "Organ Console",
+      "Balcony View"
+    ],
+    "isBookable": false,
+    "unbookableReason": "Historic Organ Installation & Balcony"
+  },
+  {
+    "id": "EXAM-STORE",
+    "name": "Exam Secure Store",
+    "block": "Senior School Building",
+    "floor": "First Floor",
+    "capacity": 2,
+    "type": "Staff Office",
+    "facilities": [
+      "High Security Safe",
+      "CCTV Monitoring"
+    ],
+    "isBookable": false,
+    "unbookableReason": "JCQ Secure Examination Materials Storage"
+  },
+  {
+    "id": "E6",
+    "name": "Room E6 - English / Humanities",
+    "block": "Senior School Building",
+    "floor": "First Floor",
+    "capacity": 30,
+    "type": "General Classroom",
+    "facilities": [
+      "Interactive Whiteboard",
+      "Projector",
+      "Teacher PC"
+    ],
+    "isBookable": true,
+    "unbookableReason": ""
+  },
+  {
+    "id": "E5",
+    "name": "Room E5 - English / Humanities",
+    "block": "Senior School Building",
+    "floor": "First Floor",
+    "capacity": 30,
+    "type": "General Classroom",
+    "facilities": [
+      "Interactive Whiteboard",
+      "Projector",
+      "Teacher PC"
+    ],
+    "isBookable": true,
+    "unbookableReason": ""
+  },
+  {
+    "id": "LH",
+    "name": "Vice Principal Office (Louise Hall)",
+    "block": "Senior School Building",
+    "floor": "First Floor",
+    "capacity": 4,
+    "type": "Staff Office",
+    "facilities": [
+      "Executive Desk",
+      "Meeting Table",
+      "PC Workstation",
+      "Visitor Seating"
+    ],
+    "isBookable": false,
+    "unbookableReason": "Vice Principal Private Office (Louise Hall)"
+  },
+  {
+    "id": "E7",
+    "name": "Room E7 - English / Humanities",
+    "block": "Senior School Building",
+    "floor": "First Floor",
+    "capacity": 30,
+    "type": "General Classroom",
+    "facilities": [
+      "Interactive Whiteboard",
+      "Projector",
+      "Teacher PC"
+    ],
+    "isBookable": true,
+    "unbookableReason": ""
+  },
+  {
+    "id": "LAB6",
+    "name": "Science Lab 6",
+    "block": "Senior School Building",
+    "floor": "First Floor",
+    "capacity": 30,
+    "type": "Science Lab",
+    "facilities": [
+      "Gas Outlets",
+      "Sinks & Water",
+      "Interactive Display"
+    ],
+    "isBookable": true,
+    "unbookableReason": ""
+  },
+  {
+    "id": "LAB3",
+    "name": "Science Lab 3",
+    "block": "Senior School Building",
+    "floor": "First Floor",
+    "capacity": 30,
+    "type": "Science Lab",
+    "facilities": [
+      "Gas Outlets",
+      "Sinks & Water",
+      "Demonstration Bench"
+    ],
+    "isBookable": true,
+    "unbookableReason": ""
+  },
+  {
+    "id": "PREP-2",
+    "name": "Science Prep Room (First Floor)",
+    "block": "Senior School Building",
+    "floor": "First Floor",
+    "capacity": 4,
+    "type": "Specialist Workshop",
+    "facilities": [
+      "Chemical Storage",
+      "Prep Benches"
+    ],
+    "isBookable": false,
+    "unbookableReason": "Science Technician Preparation Room"
+  },
+  {
+    "id": "LAB2",
+    "name": "Science Lab 2",
+    "block": "Senior School Building",
+    "floor": "First Floor",
+    "capacity": 30,
+    "type": "Science Lab",
+    "facilities": [
+      "Gas Outlets",
+      "Sinks & Water",
+      "Interactive Display"
+    ],
+    "isBookable": true,
+    "unbookableReason": ""
+  },
+  {
+    "id": "DT-CAD",
+    "name": "CAD Design Suite",
+    "block": "Art & Design Building",
+    "floor": "Ground Floor",
+    "capacity": 26,
+    "type": "IT Computer Suite",
+    "facilities": [
+      "26 CAD Workstations",
+      "SolidWorks / 2D Design",
+      "Laser Cutter Control",
+      "3D Printing Hub"
+    ],
+    "isBookable": true,
+    "unbookableReason": ""
+  },
+  {
+    "id": "DT-MAIN",
+    "name": "Design & Technology Room (DT)",
+    "block": "Art & Design Building",
+    "floor": "Ground Floor",
+    "capacity": 25,
+    "type": "Specialist Workshop",
+    "facilities": [
+      "Design Tables",
+      "Interactive Board",
+      "Modeling Materials"
+    ],
+    "isBookable": true,
+    "unbookableReason": ""
+  },
+  {
+    "id": "DT-WORKSHOP",
+    "name": "Main DT Workshop",
+    "block": "Art & Design Building",
+    "floor": "Ground Floor",
+    "capacity": 24,
+    "type": "Specialist Workshop",
+    "facilities": [
+      "Heavy Workbenches with Vices",
+      "Pillar Drills",
+      "Bandsaw",
+      "Dust Extraction",
+      "Safety Guards"
+    ],
+    "isBookable": true,
+    "unbookableReason": ""
+  },
+  {
+    "id": "DT-OFFICE",
+    "name": "Workshop Technician Office",
+    "block": "Art & Design Building",
+    "floor": "Ground Floor",
+    "capacity": 3,
+    "type": "Staff Office",
+    "facilities": [
+      "Technician Desk",
+      "Tools Storage"
+    ],
+    "isBookable": false,
+    "unbookableReason": "DT Technician Office & Blade Storage"
+  },
+  {
+    "id": "ART1",
+    "name": "Art Studio 1",
+    "block": "Art & Design Building",
+    "floor": "First Floor",
+    "capacity": 26,
+    "type": "Art & Design",
+    "facilities": [
+      "Deep Sinks",
+      "Art Easels",
+      "Natural Light",
+      "Drying Racks"
+    ],
+    "isBookable": true,
+    "unbookableReason": ""
+  },
+  {
+    "id": "ART2",
+    "name": "Art Studio 2",
+    "block": "Art & Design Building",
+    "floor": "First Floor",
+    "capacity": 26,
+    "type": "Art & Design",
+    "facilities": [
+      "Deep Sinks",
+      "Pottery Wheels",
+      "Kiln Room Access",
+      "Art Easels"
+    ],
+    "isBookable": true,
+    "unbookableReason": ""
+  },
+  {
+    "id": "ART3",
+    "name": "Art Studio 3",
+    "block": "Art & Design Building",
+    "floor": "First Floor",
+    "capacity": 26,
+    "type": "Art & Design",
+    "facilities": [
+      "Deep Sinks",
+      "Sculpture Tables",
+      "Display Boards"
+    ],
+    "isBookable": true,
+    "unbookableReason": ""
+  },
+  {
+    "id": "SPORTS-HALL",
+    "name": "Main Sports Hall",
+    "block": "Sports & Recreation",
+    "floor": "Ground Floor",
+    "capacity": 200,
+    "type": "Sports & PE",
+    "facilities": [
+      "Indoor Courts",
+      "Divider Netting",
+      "Electronic Scoreboard",
+      "Changing Rooms"
+    ],
+    "isBookable": true,
+    "unbookableReason": ""
+  },
+  {
+    "id": "ASTRO",
+    "name": "All-Weather Astro Turf",
+    "block": "Sports & Recreation",
+    "floor": "Ground Floor",
+    "capacity": 150,
+    "type": "Sports & PE",
+    "facilities": [
+      "Full Size Astro",
+      "Floodlights",
+      "Perimeter Fencing",
+      "Goal Nets"
+    ],
+    "isBookable": true,
+    "unbookableReason": ""
+  }
+]

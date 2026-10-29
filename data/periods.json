@@ -1,0 +1,82 @@
+[
+  {
+    "id": "period-1",
+    "name": "Period 1",
+    "regularStart": "09:00",
+    "regularEnd": "09:50",
+    "fridayStart": "09:10",
+    "fridayEnd": "09:55",
+    "type": "Lesson",
+    "isBookable": true
+  },
+  {
+    "id": "period-2",
+    "name": "Period 2",
+    "regularStart": "09:50",
+    "regularEnd": "10:40",
+    "fridayStart": "09:55",
+    "fridayEnd": "10:40",
+    "type": "Lesson",
+    "isBookable": true
+  },
+  {
+    "id": "break",
+    "name": "Break",
+    "regularStart": "10:40",
+    "regularEnd": "11:00",
+    "fridayStart": "10:40",
+    "fridayEnd": "11:00",
+    "type": "Break",
+    "isBookable": false
+  },
+  {
+    "id": "period-3",
+    "name": "Period 3",
+    "regularStart": "11:00",
+    "regularEnd": "11:50",
+    "fridayStart": "11:00",
+    "fridayEnd": "11:50",
+    "type": "Lesson",
+    "isBookable": true
+  },
+  {
+    "id": "period-4",
+    "name": "Period 4",
+    "regularStart": "11:50",
+    "regularEnd": "12:40",
+    "fridayStart": "11:50",
+    "fridayEnd": "12:40",
+    "type": "Lesson",
+    "isBookable": true
+  },
+  {
+    "id": "lunch",
+    "name": "Lunch",
+    "regularStart": "12:40",
+    "regularEnd": "13:20",
+    "fridayStart": "12:40",
+    "fridayEnd": "13:20",
+    "type": "Lunch",
+    "isBookable": false
+  },
+  {
+    "id": "period-5",
+    "name": "Period 5",
+    "regularStart": "13:20",
+    "regularEnd": "14:10",
+    "fridayStart": "13:20",
+    "fridayEnd": "14:10",
+    "type": "Lesson",
+    "isBookable": true
+  },
+  {
+    "id": "period-6",
+    "name": "Period 6",
+    "regularStart": "14:10",
+    "regularEnd": "15:00",
+    "fridayStart": "14:10",
+    "fridayEnd": "15:00",
+    "type": "Lesson",
+    "isBookable": true
+  }
+]

@@ -1,0 +1,55 @@
+[
+  {
+    "id": "book-demo-1",
+    "date": "2026-10-28",
+    "period": "Period 2",
+    "roomId": "K6",
+    "roomName": "Room K6 - Science Lab",
+    "block": "Kensington Building",
+    "bookedBy": "Dr. Emily Watson",
+    "bookedByEmail": "ewatson@school.edu",
+    "purpose": "Year 8 Chemistry Investigation",
+    "createdAt": "2026-10-28T09:00:00.000Z",
+    "outlookEventId": null
+  },
+  {
+    "id": "book-demo-2",
+    "date": "2026-10-28",
+    "period": "Period 3",
+    "roomId": "K7",
+    "roomName": "Room K7 - IT Suite",
+    "block": "Kensington Building",
+    "bookedBy": "Mr. Steve O'Brien",
+    "bookedByEmail": "sobrien@school.edu",
+    "purpose": "Year 9 Computer Science Python Assessment",
+    "createdAt": "2026-10-28T09:15:00.000Z",
+    "outlookEventId": null
+  },
+  {
+    "id": "book-demo-3",
+    "date": "2026-10-28",
+    "period": "Period 4",
+    "roomId": "H3",
+    "roomName": "Room H3 (Library & Study)",
+    "block": "Holyrood Building",
+    "bookedBy": "Mr. David Patel",
+    "bookedByEmail": "dpatel@school.edu",
+    "purpose": "Year 11 Maths GCSE Revision Masterclass",
+    "createdAt": "2026-10-28T10:30:00.000Z",
+    "outlookEventId": null
+  },
+  {
+    "id": "e65bdf1f-e28f-4901-843c-04e18700410c",
+    "date": "2026-10-28",
+    "period": "Break",
+    "roomId": "H5",
+    "roomName": "Room H5",
+    "block": "Holyrood Building",
+    "capacity": 32,
+    "bookedBy": "Mr. Steve O'Brien",
+    "bookedByEmail": "mrsteveobrien@school.edu",
+    "purpose": "General Classroom Booking",
+    "createdAt": "2026-10-28T12:39:59.397Z",
+    "outlookEventId": null
+  }
+]
